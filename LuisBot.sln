@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuisBot", "LuisBot.csproj", "{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "README", "README", "{279E48A0-6E78-4007-96B3-B018169997BE}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F6283B08-E96C-4A78-B170-0ABF18D23749}"
+	ProjectSection(SolutionItems) = preProject
+		BookingForm.cs = BookingForm.cs
+		BookingForm2.cs = BookingForm2.cs
+		EmailQuery.cs = EmailQuery.cs
+		LuisBot.BookingForm1.resx = LuisBot.BookingForm1.resx
+		LuisBot.BookingForm2.resx = LuisBot.BookingForm2.resx
+		LuisBot.EmailQuery.resx = LuisBot.EmailQuery.resx
+		RestaurantForm.cs = RestaurantForm.cs
+		Room.cs = Room.cs
+		Services.cs = Services.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Model", "Model", "{4807937F-374A-41B0-ABD3-00F2956FD2D9}"
+	ProjectSection(SolutionItems) = preProject
+		Booking.cs = Booking.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BA1066-5695-4D71-ABB4-65E5A5E0C3D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA4AEF72-D43E-435D-82F3-7D3E003DF6B1}
+	EndGlobalSection
+EndGlobal

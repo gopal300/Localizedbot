@@ -1,0 +1,814 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="es-ES" target-language="en-US" original="LUISBOT/RESOURCE/LUISBOT.DATEQUERY.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="LUISBOT/RESOURCE/LUISBOT.DATEQUERY.RESX" datatype="resx">
+        <trans-unit id="Fecha_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Fecha</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Date</target>
+        </trans-unit>
+        <trans-unit id="Noches_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Noches</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nights</target>
+        </trans-unit>
+        <trans-unit id="Fecha_terms;LIST" translate="yes" xml:space="preserve">
+          <source>fecha</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">date</target>
+        </trans-unit>
+        <trans-unit id="Fecha_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>¿Para qué fecha quieres reservar la habitación? 🗓🗓</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">To what date would you like to book the room? 🗓🗓</target>
+        </trans-unit>
+        <trans-unit id="Noches_terms;LIST" translate="yes" xml:space="preserve">
+          <source>noches</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">nights</target>
+        </trans-unit>
+        <trans-unit id="Noches_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>¿Por cuántas noches quieres reservar la habitación? 📅📅</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">For how many nights would you like to book a room? 📅📅</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="es-ES" target-language="en-US" original="LUISBOT/RESOURCE/LUISBOT.BOOKINGFORMSHORT2.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="LUISBOT/RESOURCE/LUISBOT.BOOKINGFORMSHORT2.RESX" datatype="resx">
+        <trans-unit id="Regimen_uso_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Régimen de uso</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Use regime</target>
+        </trans-unit>
+        <trans-unit id="CategoriesShort.SoloAlojamiento;VALUE" translate="yes" xml:space="preserve">
+          <source>Solo Alojamiento</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Accommodation only</target>
+        </trans-unit>
+        <trans-unit id="CategoriesShort.ConDesayuno;VALUE" translate="yes" xml:space="preserve">
+          <source>Con Desayuno</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">With breakfast</target>
+        </trans-unit>
+        <trans-unit id="CategoriesShort.MediaPensión;VALUE" translate="yes" xml:space="preserve">
+          <source>Media Pensión</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Half-board</target>
+        </trans-unit>
+        <trans-unit id="CategoriesShort.PensiónCompleta;VALUE" translate="yes" xml:space="preserve">
+          <source>Pensión Completa</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Full Board</target>
+        </trans-unit>
+        <trans-unit id="Peticiones_extra_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Peticiones extra</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Extra requests</target>
+        </trans-unit>
+        <trans-unit id="Regimen_uso_terms;LIST" translate="yes" xml:space="preserve">
+          <source>régimen;de;uso;régimen de;de uso;régimen de uso</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">regime;; use; used; use regime</target>
+        </trans-unit>
+        <trans-unit id="CategoriesShort.SoloAlojamiento;LIST" translate="yes" xml:space="preserve">
+          <source>solo;alojamiento;solo alojamiento</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">only; accommodation; accommodation only</target>
+        </trans-unit>
+        <trans-unit id="CategoriesShort.ConDesayuno;LIST" translate="yes" xml:space="preserve">
+          <source>con;desayuno;con desayuno</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">with; breakfast; with breakfast</target>
+        </trans-unit>
+        <trans-unit id="CategoriesShort.MediaPensión;LIST" translate="yes" xml:space="preserve">
+          <source>media;pensión;media pensión</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">average; pension; half board</target>
+        </trans-unit>
+        <trans-unit id="CategoriesShort.PensiónCompleta;LIST" translate="yes" xml:space="preserve">
+          <source>pensión;completa;pensión completa</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">pension; full; full Board</target>
+        </trans-unit>
+        <trans-unit id="Regimen_uso_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>Régimen de uso: {||}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Use regime: {|}</target>
+        </trans-unit>
+        <trans-unit id="Peticiones_extra_terms;LIST" translate="yes" xml:space="preserve">
+          <source>peticiones;extra;peticiones extra</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">requests, extra, extra requests</target>
+        </trans-unit>
+        <trans-unit id="Peticiones_extra_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>¿Quiere añadir información adicional? ℹℹ</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Do you want to add additional information? ℹℹ</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="es-ES" target-language="en-US" original="LUISBOT/RESOURCE/LUISBOT.EMAILQUERY.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="LUISBOT/RESOURCE/LUISBOT.EMAILQUERY.RESX" datatype="resx">
+        <trans-unit id="Email_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Email</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Email</target>
+        </trans-unit>
+        <trans-unit id="Email_terms;LIST" translate="yes" xml:space="preserve">
+          <source>email</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">email</target>
+        </trans-unit>
+        <trans-unit id="Email_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>Introduce tu mail 📧 para comprobar si tienes datos guardados </source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Please enter your email 📧 to check if you have saved data </target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="es-ES" target-language="en-US" original="LUISBOT/RESOURCE/LUISBOT.BOOKINGFORM2.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="LUISBOT/RESOURCE/LUISBOT.BOOKINGFORM2.RESX" datatype="resx">
+        <trans-unit id="Regimen_uso_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Régimen de uso</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Use regime</target>
+        </trans-unit>
+        <trans-unit id="Categories.SoloAlojamiento;VALUE" translate="yes" xml:space="preserve">
+          <source>Solo Alojamiento</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Accommodation only</target>
+        </trans-unit>
+        <trans-unit id="Categories.ConDesayuno;VALUE" translate="yes" xml:space="preserve">
+          <source>Con Desayuno</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">With breakfast</target>
+        </trans-unit>
+        <trans-unit id="Categories.MediaPensión;VALUE" translate="yes" xml:space="preserve">
+          <source>Media Pensión</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Half-board</target>
+        </trans-unit>
+        <trans-unit id="Categories.PensiónCompleta;VALUE" translate="yes" xml:space="preserve">
+          <source>Pensión Completa</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Full Board</target>
+        </trans-unit>
+        <trans-unit id="Nombre_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Nombre</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Name</target>
+        </trans-unit>
+        <trans-unit id="Num_Telefono_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Num  Telefono</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Phone NUM</target>
+        </trans-unit>
+        <trans-unit id="Peticiones_extra_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Peticiones extra</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Extra requests</target>
+        </trans-unit>
+        <trans-unit id="Regimen_uso_terms;LIST" translate="yes" xml:space="preserve">
+          <source>régimen;de;uso;régimen de;de uso;régimen de uso</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">regime;; use; used; use regime</target>
+        </trans-unit>
+        <trans-unit id="Categories.SoloAlojamiento;LIST" translate="yes" xml:space="preserve">
+          <source>solo;alojamiento;solo alojamiento</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">only; accommodation; accommodation only</target>
+        </trans-unit>
+        <trans-unit id="Categories.ConDesayuno;LIST" translate="yes" xml:space="preserve">
+          <source>con;desayuno;con desayuno</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">with; breakfast; with breakfast</target>
+        </trans-unit>
+        <trans-unit id="Categories.MediaPensión;LIST" translate="yes" xml:space="preserve">
+          <source>media;pensión;media pensión</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">average; pension; half board</target>
+        </trans-unit>
+        <trans-unit id="Categories.PensiónCompleta;LIST" translate="yes" xml:space="preserve">
+          <source>pensión;completa;pensión completa</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">pension; full; full Board</target>
+        </trans-unit>
+        <trans-unit id="Regimen_uso_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>Régimen de uso: {||}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Use regime: {|}</target>
+        </trans-unit>
+        <trans-unit id="Nombre_terms;LIST" translate="yes" xml:space="preserve">
+          <source>nombre</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">name</target>
+        </trans-unit>
+        <trans-unit id="Nombre_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>¿Puedes decirme tu nombre? 🔤🔤</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Can you tell me your name? 🔤🔤</target>
+        </trans-unit>
+        <trans-unit id="Num_Telefono_terms;LIST" translate="yes" xml:space="preserve">
+          <source>num;telefono;num telefono</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">NUM; phone; phone num</target>
+        </trans-unit>
+        <trans-unit id="Num_Telefono_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>¿Puedo obtener tu número de teléfono, por favor? 📱📱</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Can I get your phone number, please? 📱📱</target>
+        </trans-unit>
+        <trans-unit id="Peticiones_extra_terms;LIST" translate="yes" xml:space="preserve">
+          <source>peticiones;extra;peticiones extra</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">requests, extra, extra requests</target>
+        </trans-unit>
+        <trans-unit id="Peticiones_extra_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>¿Quiere añadir información adicional? ℹℹ</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Do you want to add additional information? ℹℹ</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="es-ES" target-language="en-US" original="LUISBOT/RESOURCE/LUISBOT.BOOKINGFORMSHORT1.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="LUISBOT/RESOURCE/LUISBOT.BOOKINGFORMSHORT1.RESX" datatype="resx">
+        <trans-unit id="Fecha_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Fecha</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Date</target>
+        </trans-unit>
+        <trans-unit id="Noches_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Noches</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nights</target>
+        </trans-unit>
+        <trans-unit id="No_Huespedes_description;VALUE" translate="yes" xml:space="preserve">
+          <source>No  Huespedes</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Non-guests</target>
+        </trans-unit>
+        <trans-unit id="Niños_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Niños</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Kids</target>
+        </trans-unit>
+        <trans-unit id="TipoHabitacion_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Seleccione la opción deseada: </source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Select the desired option: </target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Individual;VALUE" translate="yes" xml:space="preserve">
+          <source>Individual</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Individual</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Doble;VALUE" translate="yes" xml:space="preserve">
+          <source>Doble</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Double</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Matrimonial;VALUE" translate="yes" xml:space="preserve">
+          <source>Matrimonial</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Double</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Triple;VALUE" translate="yes" xml:space="preserve">
+          <source>Triple</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Triple</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Suite;VALUE" translate="yes" xml:space="preserve">
+          <source>Suite</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Suite</target>
+        </trans-unit>
+        <trans-unit id="Fecha_terms;LIST" translate="yes" xml:space="preserve">
+          <source>fecha</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">date</target>
+        </trans-unit>
+        <trans-unit id="Fecha_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>¿Para qué fecha quieres reservar la habitación? 📆📆</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">To what date would you like to book the room? 📆📆</target>
+        </trans-unit>
+        <trans-unit id="Noches_terms;LIST" translate="yes" xml:space="preserve">
+          <source>noches</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">nights</target>
+        </trans-unit>
+        <trans-unit id="Noches_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>¿Por cuántas noches quieres reservar la habitación? 📅📅</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">For how many nights would you like to book a room? 📅📅</target>
+        </trans-unit>
+        <trans-unit id="No_Huespedes_terms;LIST" translate="yes" xml:space="preserve">
+          <source>no;huespedes;no huespedes</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">No; guests and non-guests</target>
+        </trans-unit>
+        <trans-unit id="No_Huespedes_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>¿Para cuántas personas quieres la habitación? 👥👥</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">For how many people would you like the room? 👥👥</target>
+        </trans-unit>
+        <trans-unit id="Niños_terms;LIST" translate="yes" xml:space="preserve">
+          <source>niños</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">kids</target>
+        </trans-unit>
+        <trans-unit id="Niños_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>¿Cuántos niños? 👶👶</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">How many children? 👶👶</target>
+        </trans-unit>
+        <trans-unit id="TipoHabitacion_terms;LIST" translate="yes" xml:space="preserve">
+          <source>seleccione;la;opción;deseada:;seleccione la;la opción;opción deseada:;seleccione la opción;la opción deseada:;seleccione la opción deseada:</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Select; option; desired:; select; the option; desired option:; select the option; the desired option:; select the desired option:</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Individual;LIST" translate="yes" xml:space="preserve">
+          <source>individual</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">individual</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Doble;LIST" translate="yes" xml:space="preserve">
+          <source>doble</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">double</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Matrimonial;LIST" translate="yes" xml:space="preserve">
+          <source>matrimonial</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Double</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Triple;LIST" translate="yes" xml:space="preserve">
+          <source>triple</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">triple</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Suite;LIST" translate="yes" xml:space="preserve">
+          <source>suite</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Suite</target>
+        </trans-unit>
+        <trans-unit id="TipoHabitacion_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>Que tipo de habitación quiere? {||}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Which type of room would you? {|}</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="es-ES" target-language="en-US" original="LUISBOT/RESOURCE/LUISBOT.BOOKINGFORM1.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="LUISBOT/RESOURCE/LUISBOT.BOOKINGFORM1.RESX" datatype="resx">
+        <trans-unit id="Fecha_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Fecha</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Date</target>
+        </trans-unit>
+        <trans-unit id="Noches_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Noches</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nights</target>
+        </trans-unit>
+        <trans-unit id="Num_Huespedes_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Num  Huespedes</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">NUM guests</target>
+        </trans-unit>
+        <trans-unit id="Niños_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Niños</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Kids</target>
+        </trans-unit>
+        <trans-unit id="TipoHabitacion_description;VALUE" translate="yes" xml:space="preserve">
+          <source>Seleccione la opción deseada: </source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Select the desired option: </target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Individual;VALUE" translate="yes" xml:space="preserve">
+          <source>Individual</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Individual</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Doble;VALUE" translate="yes" xml:space="preserve">
+          <source>Doble</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Double</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Matrimonial;VALUE" translate="yes" xml:space="preserve">
+          <source>Matrimonial</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Double</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Triple;VALUE" translate="yes" xml:space="preserve">
+          <source>Triple</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Triple</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Suite;VALUE" translate="yes" xml:space="preserve">
+          <source>Suite</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Suite</target>
+        </trans-unit>
+        <trans-unit id="Fecha_terms;LIST" translate="yes" xml:space="preserve">
+          <source>fecha</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">date</target>
+        </trans-unit>
+        <trans-unit id="Fecha_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>¿Para qué fecha quieres reservar la habitación? 📆📆</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">To what date would you like to book the room? 📆📆</target>
+        </trans-unit>
+        <trans-unit id="Noches_terms;LIST" translate="yes" xml:space="preserve">
+          <source>noches</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">nights</target>
+        </trans-unit>
+        <trans-unit id="Noches_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>¿Por cuántas noches quieres reservar la habitación? 📅📅</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">For how many nights would you like to book a room? 📅📅</target>
+        </trans-unit>
+        <trans-unit id="Num_Huespedes_terms;LIST" translate="yes" xml:space="preserve">
+          <source>num;huespedes;num huespedes</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">NUM guests; num guests</target>
+        </trans-unit>
+        <trans-unit id="Num_Huespedes_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>¿Para cuántas personas quieres la habitación? 👥👥</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">For how many people would you like the room? 👥👥</target>
+        </trans-unit>
+        <trans-unit id="Niños_terms;LIST" translate="yes" xml:space="preserve">
+          <source>niños</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">kids</target>
+        </trans-unit>
+        <trans-unit id="Niños_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>¿Cuántos niños? 👶👶</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">How many children? 👶👶</target>
+        </trans-unit>
+        <trans-unit id="TipoHabitacion_terms;LIST" translate="yes" xml:space="preserve">
+          <source>seleccione;la;opción;deseada:;seleccione la;la opción;opción deseada:;seleccione la opción;la opción deseada:;seleccione la opción deseada:</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Select; option; desired:; select; the option; desired option:; select the option; the desired option:; select the desired option:</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Individual;LIST" translate="yes" xml:space="preserve">
+          <source>individual</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">individual</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Doble;LIST" translate="yes" xml:space="preserve">
+          <source>doble</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">double</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Matrimonial;LIST" translate="yes" xml:space="preserve">
+          <source>matrimonial</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Double</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Triple;LIST" translate="yes" xml:space="preserve">
+          <source>triple</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">triple</target>
+        </trans-unit>
+        <trans-unit id="TypeRoom.Suite;LIST" translate="yes" xml:space="preserve">
+          <source>suite</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Suite</target>
+        </trans-unit>
+        <trans-unit id="TipoHabitacion_promptDefinition;LIST" translate="yes" xml:space="preserve">
+          <source>Que tipo de habitación quiere? {||}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Which type of room would you? {|}</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+  <file datatype="xml" source-language="es-ES" target-language="en-US" original="LUISBOT/PROPERTIES/RESOURCES.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="LUISBOT/PROPERTIES/RESOURCES.RESX" datatype="resx">
+        <trans-unit id="CommandBack" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Back</target>
+        </trans-unit>
+        <trans-unit id="CommandBackHelp" translate="yes" xml:space="preserve">
+          <source>Back: Go back to the previous question.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Back: Go back to the previous question.</target>
+        </trans-unit>
+        <trans-unit id="CommandBackTerms" translate="yes" xml:space="preserve">
+          <source>backup;go back;back</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">backup; go back; back</target>
+        </trans-unit>
+        <trans-unit id="CommandHelp" translate="yes" xml:space="preserve">
+          <source>Help</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Help</target>
+        </trans-unit>
+        <trans-unit id="CommandHelpHelp" translate="yes" xml:space="preserve">
+          <source>Help: Show the kinds of responses you can enter.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Help: Show the kinds of responses you can enter.</target>
+        </trans-unit>
+        <trans-unit id="CommandHelpTerms" translate="yes" xml:space="preserve">
+          <source>help;choices;\?</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">help; choices; \?</target>
+        </trans-unit>
+        <trans-unit id="CommandQuit" translate="yes" xml:space="preserve">
+          <source>Quit</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Quit</target>
+        </trans-unit>
+        <trans-unit id="CommandQuitHelp" translate="yes" xml:space="preserve">
+          <source>Quit: Quit the form without completing it.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Quit: Quit the form without completing it.</target>
+        </trans-unit>
+        <trans-unit id="CommandQuitTerms" translate="yes" xml:space="preserve">
+          <source>quit;stop;finish;goodby?;good bye?;bye;ciao;adios;bye-bye;so long;cheers</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">quit; stop; finish goodby?; do good bye?; Bye; ciao bye, bye-bye; so long; cheers</target>
+        </trans-unit>
+        <trans-unit id="CommandReset" translate="yes" xml:space="preserve">
+          <source>Start over</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Start over</target>
+        </trans-unit>
+        <trans-unit id="CommandResetHelp" translate="yes" xml:space="preserve">
+          <source>Reset: Start over filling in the form.  (With defaults from your previous entries.)</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Reset: Start over filling in the form.  (With defaults from your previous entries.)</target>
+        </trans-unit>
+        <trans-unit id="CommandResetTerms" translate="yes" xml:space="preserve">
+          <source>start over;reset;clear</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">start over, reset, clear</target>
+        </trans-unit>
+        <trans-unit id="CommandStatus" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Status</target>
+        </trans-unit>
+        <trans-unit id="CommandStatusHelp" translate="yes" xml:space="preserve">
+          <source>Status: Show your progress in filling in the form so far.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Status: Show your progress in filling in the form so far.</target>
+        </trans-unit>
+        <trans-unit id="CommandStatusTerms" translate="yes" xml:space="preserve">
+          <source>status;progress;so far;results</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">status progress; so far; results</target>
+        </trans-unit>
+        <trans-unit id="Confirmation" translate="yes" xml:space="preserve">
+          <source>Confirmation</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Confirmation</target>
+        </trans-unit>
+        <trans-unit id="ConfirmChoiceFormat" translate="yes" xml:space="preserve">
+          <source>{1}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">{1}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-number, 1-description</note>
+        </trans-unit>
+        <trans-unit id="DefaultChoiceFormat" translate="yes" xml:space="preserve">
+          <source>{0}. {1}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">{0}. {1}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-number, 1-description</note>
+        </trans-unit>
+        <trans-unit id="DefaultChoiceLastSeparator" translate="yes" xml:space="preserve">
+          <source>, or </source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">, or </target>
+        </trans-unit>
+        <trans-unit id="DefaultChoiceSeparator" translate="yes" xml:space="preserve">
+          <source>, </source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">, </target>
+        </trans-unit>
+        <trans-unit id="DefaultLastSeparator" translate="yes" xml:space="preserve">
+          <source>, and </source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">, and </target>
+        </trans-unit>
+        <trans-unit id="DefaultSeparator" translate="yes" xml:space="preserve">
+          <source>, </source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">, </target>
+        </trans-unit>
+        <trans-unit id="LanguageArticles" translate="yes" xml:space="preserve">
+          <source>a;an;the</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">a, an, the</target>
+        </trans-unit>
+        <trans-unit id="LanguageStopWords" translate="yes" xml:space="preserve">
+          <source>a;about;above;above;across;after;afterwards;again;against;all;almost;alone;along;already;also;although;always;am;among;amongst;amoungst;amount;an;and;another;any;anyhow;anyone;anything;anyway;anywhere;are;around;as;at;back;be;became;because;become;becomes;becoming;been;before;beforehand;behind;being;below;beside;besides;between;beyond;bill;both;bottom;but;by;call;can;cannot;cant;co;con;could;couldnt;cry;de;describe;detail;do;done;down;due;during;each;eg;eight;either;eleven;else;elsewhere;empty;enough;etc;even;ever;every;everyone;everything;everywhere;except;few;fifteen;fify;fill;find;fire;first;five;for;former;formerly;forty;found;four;from;front;full;further;get;give;go;had;has;hasnt;have;he;hence;her;here;hereafter;hereby;herein;hereupon;hers;herself;him;himself;his;how;however;hundred;ie;if;in;inc;indeed;interest;into;is;it;its;itself;keep;last;latter;latterly;least;less;ltd;made;many;may;me;meanwhile;might;mill;mine;more;moreover;most;mostly;move;much;must;my;myself;name;namely;neither;never;nevertheless;next;nine;no;nobody;none;noone;nor;not;nothing;now;nowhere;of;off;often;on;once;one;only;onto;or;other;others;otherwise;our;ours;ourselves;out;over;own;part;per;perhaps;please;put;rather;re;same;see;seem;seemed;seeming;seems;serious;several;she;should;show;side;since;sincere;six;sixty;so;some;somehow;someone;something;sometime;sometimes;somewhere;still;such;system;take;ten;than;that;the;their;them;themselves;then;thence;there;thereafter;thereby;therefore;therein;thereupon;these;they;thick;thin;third;this;those;though;three;through;throughout;thru;thus;to;together;too;top;toward;towards;twelve;twenty;two;un;under;until;up;upon;us;very;via;was;we;well;were;what;whatever;when;whence;whenever;where;whereafter;whereas;whereby;wherein;whereupon;wherever;whether;which;while;whither;who;whoever;whole;whom;whose;why;will;with;within;without;would;yet;you;your;yours;yourself;yourselves</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">a;about;above;above;across;after;afterwards;again;against;all;almost;alone;along;already;also;although;always;am;among;amongst;amoungst;amount;an;and;another;any;anyhow;anyone;anything;anyway;anywhere;are;around;as;at;back;be; became;because;become;becomes;becoming;been;before;beforehand;behind;being;below;beside;besides;between;beyond;bill;both;bottom;but;by;call;can;cannot;cant;co;con;could;couldnt;cry;de;describe;detail;do;done;down;due;during;each; eg;eight;either;eleven;else;elsewhere;empty;enough;etc;even;ever;every;everyone;everything;everywhere;except;few;fifteen;fify;fill;find;fire;first;five;for;former;formerly;forty;found;four;from;front;full;further;get;give;go;had; has;hasnt;have;he;hence;her;here;hereafter;hereby;herein;hereupon;hers;herself;him;himself;his;how;however;hundred;ie;if;in;inc;indeed;interest;into;is;it;its;itself;keep;last;latter;latterly;least;less;ltd;made;many;may;me; meanwhile;might;mill;mine;more;moreover;most;mostly;move;much;must;my;myself;name;namely;neither;never;nevertheless;next;nine;no;nobody;none;noone;nor;not;nothing;now;nowhere;of;off;often;on;once;one;only;onto;or;other;others;o therwise;our;ours;ourselves;out;over;own;part;per;perhaps;please;put;rather;re;same;see;seem;seemed;seeming;seems;serious;several;she;should;show;side;since;sincere;six;sixty;so;some;somehow;someone;something;sometime;sometimes; somewhere;still;such;system;take;ten;than;that;the;their;them;themselves;then;thence;there;thereafter;thereby;therefore;therein;thereupon;these;they;thick;thin;third;this;those;though;three;through;throughout;thru;thus;to;together ;too;top;toward;towards;twelve;twenty;two;un;under;until;up;upon;us;very;via;was;we;well;were;what;whatever;when;whence;whenever;where;whereafter;whereas;whereby;wherein;whereupon;wherever;whether;which;while;whither;who;whoever; whole; whom whose; why; will; with; within; without; would; yet; you; your, yours, yourself; yourselves</target>
+        </trans-unit>
+        <trans-unit id="MatchCurrentChoice" translate="yes" xml:space="preserve">
+          <source>Current Choice('c');current;c;current choice;no change</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Current Choice('c'); current; c; current choice; no change</target>
+        </trans-unit>
+        <trans-unit id="MatchNo" translate="yes" xml:space="preserve">
+          <source>No;n;nope;2</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Nope, no; n; 2</target>
+        </trans-unit>
+        <trans-unit id="MatchNoPreference" translate="yes" xml:space="preserve">
+          <source>No Preference;no;none;I don'?t care</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Not Preference; no none; I don'? t care</target>
+        </trans-unit>
+        <trans-unit id="MatchYes" translate="yes" xml:space="preserve">
+          <source>Yes;y;sure;ok;yep;Si;Sí;1</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Yes; and; sure; ok; yep; 1</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="Navigation" translate="yes" xml:space="preserve">
+          <source>Field Name</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Field Name</target>
+        </trans-unit>
+        <trans-unit id="PromptRetry" translate="yes" xml:space="preserve">
+          <source>I didn't understand. Say something in reply.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">I did not understand. Say something in reply.</target>
+        </trans-unit>
+        <trans-unit id="TemplateBool" translate="yes" xml:space="preserve">
+          <source>Would you like a {&amp;}? {||}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Would you like to {&amp;}? {|}</target>
+        </trans-unit>
+        <trans-unit id="TemplateBoolHelp" translate="yes" xml:space="preserve">
+          <source>Please enter 'yes' or 'no'{?, {0}}.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Please enter 'yes' or 'no' {?, {0}}.</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-current choice, 1-no preference</note>
+        </trans-unit>
+        <trans-unit id="TemplateClarify" translate="yes" xml:space="preserve">
+          <source>By "{0}" {&amp;} did you mean {||}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">By "{0}" {&amp;} did you mean {|}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-term being clarified</note>
+        </trans-unit>
+        <trans-unit id="TemplateConfirmation" translate="yes" xml:space="preserve">
+          <source>Is this your selection?
+{*}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Is this your selection? 
+{*}</target>
+        </trans-unit>
+        <trans-unit id="TemplateCurrentChoice" translate="yes" xml:space="preserve">
+          <source>(current choice: {})</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">(current choice: {})</target>
+        </trans-unit>
+        <trans-unit id="TemplateDateTime" translate="yes" xml:space="preserve">
+          <source>Please enter a date and time for {&amp;} {||}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Please enter a date and time for {&amp;} {|}</target>
+        </trans-unit>
+        <trans-unit id="TemplateDateTimeHelp" translate="yes" xml:space="preserve">
+          <source>Please enter a date or time expression {?, {0}}{?, {1}}.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Please enter a date or time expression {?, {0}} {?, {1}}.</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-current choice, 1-no preference</note>
+        </trans-unit>
+        <trans-unit id="TemplateDouble" translate="yes" xml:space="preserve">
+          <source>Please enter a number {?between {0:F1} and {1:F1}} for {&amp;} {||}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Please enter a number {? between {0:F1} and {1:F1}} for {&amp;} {|}}}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-min, 1-max</note>
+        </trans-unit>
+        <trans-unit id="TemplateDoubleChoiceFormat" translate="yes" xml:space="preserve">
+          <source>{1}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">{1}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-number, 1-description</note>
+        </trans-unit>
+        <trans-unit id="TemplateDoubleHelp" translate="yes" xml:space="preserve">
+          <source>Please enter a number{? between {2:F1} and {3:F1}}{?, {0}}{?, {1}}.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Please enter a number {? between {2:F1} and {3:F1}} {?, {0}} {?, {1}}.</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-current choice, 1-no preference, 2-min, 3-max</note>
+        </trans-unit>
+        <trans-unit id="TemplateEnumManyNumberHelp" translate="yes" xml:space="preserve">
+          <source>You can enter one or more numbers {0}-{1} or words from the descriptions. ({2})</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">You can enter one or more numbers {0}-{1} or words from the descriptions. ({2})</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-min, 1-max and 2-enumerated descriptions</note>
+        </trans-unit>
+        <trans-unit id="TemplateEnumManyWordHelp" translate="yes" xml:space="preserve">
+          <source>You can enter in one or more selections from the descriptions. ({2})</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">You can enter in one or more selections from the descriptions. ({2})</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">2-enumerated descriptions</note>
+        </trans-unit>
+        <trans-unit id="TemplateEnumOneNumberHelp" translate="yes" xml:space="preserve">
+          <source>You can enter a number {0}-{1} or words from the descriptions. ({2})</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">You can enter a number {0}-{1} or words from the descriptions. ({2})</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-min, 1-max and 2-enumerated descriptions</note>
+        </trans-unit>
+        <trans-unit id="TemplateEnumOneWordHelp" translate="yes" xml:space="preserve">
+          <source>You can enter in any words from the descriptions. ({2})</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">You can enter in any words from the descriptions. ({2})</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">2-enumerated descriptions</note>
+        </trans-unit>
+        <trans-unit id="TemplateEnumSelectMany" translate="yes" xml:space="preserve">
+          <source>Please select one or more {&amp;} {||}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Please select one or more {&amp;} {|}</target>
+        </trans-unit>
+        <trans-unit id="TemplateEnumSelectOne" translate="yes" xml:space="preserve">
+          <source>Please select a {&amp;} {||}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Please select a {&amp;} {|}</target>
+        </trans-unit>
+        <trans-unit id="TemplateFeedback" translate="yes" xml:space="preserve">
+          <source>For {&amp;} I understood {}. {?"{0}" is not an option.}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">{&amp;} For I understood {}. {? "} {0} "is not an option.}"</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-not understood term</note>
+        </trans-unit>
+        <trans-unit id="TemplateHelp" translate="yes" xml:space="preserve">
+          <source>You are filling in the {&amp;} field.  Possible responses:
+{0}
+{1}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">You are filling in the {&amp;} field.  Possible responses:
+{0}
+{1}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-recognizer help, 1-command help</note>
+        </trans-unit>
+        <trans-unit id="TemplateHelpClarify" translate="yes" xml:space="preserve">
+          <source>You are clarifying a {&amp;} value.  Possible responses:
+{0}
+{1}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">You are clarifying to {&amp;} value.  Possible responses:
+{0}
+{1}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-recognizer help, 1-command help</note>
+        </trans-unit>
+        <trans-unit id="TemplateHelpConfirm" translate="yes" xml:space="preserve">
+          <source>Please answer the question.  Possible responses:
+{0}
+{1}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Please answer the question.  Possible responses:
+{0}
+{1}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-recognizer help, 1-command help</note>
+        </trans-unit>
+        <trans-unit id="TemplateHelpNavigation" translate="yes" xml:space="preserve">
+          <source>Choose what field to change.  Possible responses:
+{0}
+{1}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Choose what field to change.  Possible responses:
+{0}
+{1}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-recognizer help, 1-command help</note>
+        </trans-unit>
+        <trans-unit id="TemplateInteger" translate="yes" xml:space="preserve">
+          <source>Please enter a number{? between {0} and {1}} for {&amp;} {||}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Please enter a number {? between {0} and {1}} for {&amp;} {|}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-min, 1-max</note>
+        </trans-unit>
+        <trans-unit id="TemplateIntegerChoiceFormat" translate="yes" xml:space="preserve">
+          <source>{1}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">{1}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-number, 1-description</note>
+        </trans-unit>
+        <trans-unit id="TemplateIntegerHelp" translate="yes" xml:space="preserve">
+          <source>You can enter a number{? between {2} and {3}}{?, {0}}{?, {1}}.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">You can enter a number {? between {2} and {3}} {?, {0}} {?, {1}}.</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-current choice, 1-no preference, 2-min, 3-max</note>
+        </trans-unit>
+        <trans-unit id="TemplateNavigation" translate="yes" xml:space="preserve">
+          <source>What do you want to change? {||}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">What do you want to change? {|}</target>
+        </trans-unit>
+        <trans-unit id="TemplateNavigationCommandHelp" translate="yes" xml:space="preserve">
+          <source>You can switch to another field by entering its name. ({0}).</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">You can switch to another field by entering its name. ({0}).</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-list of field names</note>
+        </trans-unit>
+        <trans-unit id="TemplateNavigationFormat" translate="yes" xml:space="preserve">
+          <source>{&amp;}({})</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">{&amp;}({})</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-list of field names</note>
+        </trans-unit>
+        <trans-unit id="TemplateNavigationHelp" translate="yes" xml:space="preserve">
+          <source>Choose {?a number from {0}-{1}, or} a field name.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Choose {? a number from {0}-{1}, or} a field name.</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-min, 1-max</note>
+        </trans-unit>
+        <trans-unit id="TemplateNoPreference" translate="yes" xml:space="preserve">
+          <source>No Preference</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">No Preference</target>
+        </trans-unit>
+        <trans-unit id="TemplateNotUnderstood" translate="yes" xml:space="preserve">
+          <source>"{0}" is not a {&amp;} option.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">'{0}' is not a {&amp;} option.</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-is not understood term</note>
+        </trans-unit>
+        <trans-unit id="TemplateStatusFormat" translate="yes" xml:space="preserve">
+          <source>{&amp;}: {}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">{&amp;}: {}</target>
+        </trans-unit>
+        <trans-unit id="TemplateString" translate="yes" xml:space="preserve">
+          <source>Please enter {&amp;} {||}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Please enter {&amp;} {|}</target>
+        </trans-unit>
+        <trans-unit id="TemplateStringChoiceFormat" translate="yes" xml:space="preserve">
+          <source>{1}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">{1}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-number, 1-description</note>
+        </trans-unit>
+        <trans-unit id="TemplateStringHelp" translate="yes" xml:space="preserve">
+          <source>You can enter anything (use "'s to force string){?, {0}}{?, {1}}.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">You can enter anything (use "'s to force string") {?, {0}} {?, {1}}.</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-current choice, 1-no preference</note>
+        </trans-unit>
+        <trans-unit id="TemplateUnspecified" translate="yes" xml:space="preserve">
+          <source>Unspecified</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Unspecified</target>
+        </trans-unit>
+        <trans-unit id="TooManyAttempts" translate="yes" xml:space="preserve">
+          <source>too many attempts</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">too many attempts</target>
+        </trans-unit>
+        <trans-unit id="UnhandledExceptionToUser" translate="yes" xml:space="preserve">
+          <source>Sorry, my bot code is having an issue.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Sorry, my bot code is having an issue.</target>
+        </trans-unit>
+        <trans-unit id="UserProfileDeleted" translate="yes" xml:space="preserve">
+          <source>User profile deleted!</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">User profile deleted!</target>
+        </trans-unit>
+        <trans-unit id="NumberExpression" translate="yes" xml:space="preserve">
+          <source>[+-]?(?:\d+\.?\d*|\d*\.?\d+)</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">[+-]? (?: \) d + \.? \d*|\d*\.? \d+)</target>
+        </trans-unit>
+        <trans-unit id="NumberOrdinals" translate="yes" xml:space="preserve">
+          <source>1=1st,first,first one|2=2nd,second,second one|3=3rd,third,third one|4=4th,fourth,fourth one|5=5th,fifth,fifth one|6=6th,sixth,sixth one|7=7th,seventh,seventh one|8=8th,eigth,eigth one|9=9th,ninth,ninth one|10=10th,tenth,tenth one</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">1 = 1st, first, first one | 2 = 2nd, second, second one | 3 = 3rd, third, third one | 4 = 4th, fourth, one fourth | 5 = 5th, fifth, fifth one | 6 = 6th, sixth and sixth one | 7 = 7th, seventh, seventh one | 8 = 8th, 8th, 8th one | 9 = 9th, ninth, one ninth | 10 = 10th , tenth, one tenth</target>
+        </trans-unit>
+        <trans-unit id="NumberReverseOrdinals" translate="yes" xml:space="preserve">
+          <source>-1=last,last one|-2=next to last,second to last,second from last|-3=third to last,third from last|-4=fourth to last,fourth from last|-5=fifth to last,fith from last</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">-1 = last, last one | - 2 = next to last, second to last, second from last | - 3 = third to last, third from last | - 4 = fourth to last, fourth from last | - 5 = fifth to last, fith from last</target>
+        </trans-unit>
+        <trans-unit id="BooleanChoices" translate="yes" xml:space="preserve">
+          <source>true=y,yes,yep,sure,Si,Sí,ok,\u1f44d,\u1f44c|false=n,no,nope,\u1f44e,\\u270b,\\u1f590</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">true = and, yes, yep, sure, ok, \u1f44d, \u1f44c|false=n, no, nope, \u1f44e, \\u270b, \\u1f590</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
+        </trans-unit>
+        <trans-unit id="NumberTerms" translate="yes" xml:space="preserve">
+          <source>0=zero|1=one|2=two|3=three|4=four|5=five|6=six|7=seven|8=eight|9=nine|10=ten|11=eleven|12=twelve|13=thirteen|14=fourteen|15=fifteen|16=sixteen|17=seventeen|18=eighteen|19=nineteen|20=twenty</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">0 = zero | 1 = one | 2 = two | 3 = three | 4 = four | 5 = five | 6 = six | 7 = seven | 8 = eight | 9 = nine | 10 = ten | 11 = eleven | 12 = twelve | 13 = thirteen | 14 = fourteen | 15 = fifteen | = 16 sixteen | 17 = seventeen | 18 = eighteen | 19 = nineteen | 20 = twenty</target>
+        </trans-unit>
+        <trans-unit id="TemplateAttachmentCollection" translate="yes" xml:space="preserve">
+          <source>Please submit a collection of attachments for {&amp;}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Please submit a collection of attachments for {&amp;}</target>
+        </trans-unit>
+        <trans-unit id="TemplateAttachmentCollectionHelp" translate="yes" xml:space="preserve">
+          <source>You can submit one or more attachments.{0}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">You can submit one or more attachments. {0}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-dynamic help from attachment class</note>
+        </trans-unit>
+        <trans-unit id="TemplateAttachmentCollectionDescription" translate="yes" xml:space="preserve">
+          <source>{0} attachment/s linked.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">{0} attachment/s linked.</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-attachments count</note>
+        </trans-unit>
+        <trans-unit id="TemplateAttachment" translate="yes" xml:space="preserve">
+          <source>Please submit an attachment for {&amp;}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Please submit an attachment for {&amp;}</target>
+        </trans-unit>
+        <trans-unit id="TemplateAttachmentHelp" translate="yes" xml:space="preserve">
+          <source>You can submit one attachment.{0}</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">You can submit one attachment. {0}</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-dynamic help from attachment class</note>
+        </trans-unit>
+        <trans-unit id="TemplateAttachmentDescription" translate="yes" xml:space="preserve">
+          <source>Attachment named '{0}' with content-type '{1}'.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Attachment named '{0}' with content-type '{1}'.</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-attachment name, 1-attachment content-type</note>
+        </trans-unit>
+        <trans-unit id="AttachmentContentTypeValidatorError" translate="yes" xml:space="preserve">
+          <source>Attachment '{0}' is invalid! The content-type should contain '{1}'.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Attachment '{0}' is invalid! The content-type should contain '{1}'.</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-attachmnet name, 1-expected content-type</note>
+        </trans-unit>
+        <trans-unit id="AttachmentContentTypeValidatorHelp" translate="yes" xml:space="preserve">
+          <source>You should provide an attachment where content-type has '{0}'.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">You should provide an attachment where content-type has '{0}'.</target>
+          <note from="MultilingualBuild" annotates="source" priority="2">0-attachment content type</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

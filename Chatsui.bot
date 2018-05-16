@@ -1,0 +1,23 @@
+{
+    "name": "Chatsui",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "1e472600-52ce-11e8-b19e-37f4ab09c350",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/message",
+            "name": "http://localhost:3979/api/message"
+        },
+        {
+            "appId": "29ce00ea-fd1f-410d-821d-75b910fd2150",
+            "id": "39e55980-52cf-11e8-8003-8b67cc23cffc",
+            "type": "endpoint",
+            "appPassword": "rfgsFALVK63:$#nqsGF828}",
+            "endpoint": "http://localhost:3979/api/messages",
+            "name": "chat"
+        }
+    ]
+}
